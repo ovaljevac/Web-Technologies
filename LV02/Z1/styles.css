@@ -1,0 +1,22 @@
+.slika {
+    width: 300px;
+    float: left;
+    margin-right: 10px;
+}
+
+body {
+    background-color: aqua;
+}
+.prvo {
+    display: flex;
+    
+    flex-direction: column;
+}
+
+h1 {
+    align-self: center;
+}
+
+.cent {
+    align-self: center;
+}
